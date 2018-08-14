@@ -9,7 +9,9 @@ A simple calculator created to deal with memory management in assembler during g
 
 ## Usage
 Run `make.sh` to compile the source code.
+
 Run `test.py` to check the correctness.
+
 The absence of memory leaks can be checked with valgrind manually.
 
 ## Restrictions
