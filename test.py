@@ -32,7 +32,6 @@ def test(n):
 	count = 0
 	for _ in range(n):
 		result = test_case()
-		print(result[1])
 		if result[0]:
 			count += 1
 		else:
